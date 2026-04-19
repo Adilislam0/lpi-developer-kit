@@ -1,23 +1,3 @@
-## What I Did
-
-- Installed dependencies
-- Ran test client
-- Installed Ollama
-- Generated LLM output
-
-## Problems I Faced
-
-- Windows path issue during clone
-- Fixed using sparse checkout
-
-## What I Learned
-
-- How local LLM works
-- How tools interact in LPI
-- Importance of clean Git workflow
-
-
-
 # HOW_I_DID_IT.md — Adil Islam (Track A, Level 3)
 
 ## What I did, step by step
